@@ -1,0 +1,941 @@
+104 Invalid request( The request structure is not in a valid format)
+1001  User already registered.
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1165  LoginId is required
+1166  LoginId contains special characters.
+1167  LoginId should not have more than 256 characters.
+1168  Password is required.
+1169  Password contains special characters.
+1170  Password should not have more than 256 characters.
+1189  Given name contains special characters.
+1190  Given name should not have more than 256 characters.
+1191  Family name contains special characters.
+1192  Family name should not have more than 256 characters.
+1193  Middle name contains special characters.
+1194  Middle name should not have more than 256 characters.
+1196  Gender contains special characters.
+1195  Gender should not have more than 256 characters.
+1197  Country should not have more than 256 characters.
+1198  Country contains special characters.
+1200  Birthday format (YYYY-MM-DD) is not matching.
+1201  Current location should not have more than 256 characters.
+1202  Birthday format (YYYY-MM-DD) is not matching.
+1203  Display should not have more than 256 characters.
+1204  Display contains special characters.
+1205  Display name should not have more than 256 characters.
+1206  Display name contains special characters.
+1207  Preferred language should not have more than 256 characters.
+1208  Preferred language contains special characters.
+1209  Receive marketing email should not have more than 3 characters.
+1210  Receive marketing email contains special characters.
+1211  Locale should not have more than 256 characters.
+1212  Locale contains special characters.
+1213  Time zone should not have more than 256 characters.
+1214  Time zone contains special characters.
+1215  Unit system name should not have more than 256 characters.
+1216  Unit system name contains special characters.
+1218  Height should not contain negative values.
+1220  Height contains special characters.
+1221  Weight should not contain negative values.
+1223  Addess1 should not have more than 512 characters.
+1224  Address1 contains special characters.
+1225  Address2 should not have more than 512 characters.
+1226  Address2 contains special characters.
+1227  Photo type should not have more than 256 characters.
+1228  Photo type contains special characters.
+1229  Photo value should not exceed 2MB size.
+1230  Photo value is not base64 encoded string.
+1176  Application token should not have more than 512 characters.
+1175  Application name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1312  Failed age validation
+3074  Invalid country code header
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1416  Invalid LoginId format.
+3057  Extension is not valid
+3058  Photo content  is not valid
+3059  Photo content and Provided Extension is mismatch
+1006  Invalid Login Credentials.
+104   Invalid request
+1112  User is Inactive
+1114  Invalid Application
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1166  LoginId contains special characters.
+1165  LoginId is required
+1167  LoginId should not have more than 256 characters.
+1168  Password is required.
+1169  Password contains special characters.
+1170  Password should not have more than 256 characters.
+1175  Application name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1312  Failed age validation
+3074  Invalid country code header
+3056  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1437  Account has been locked. Please try after sometime.
+3055  Signed Date Format is not correct.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3056  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+104 Invalid request
+1150  Failed to connect database.
+1154  User is already active
+1002  User doesn't exists
+1149  Failed to connect Identity Provider  service
+1254  Validation Errors
+1166  LoginId contains special characters.
+1167  LoginId should not have more than 256 characters.
+1009  Invalid Access Token.
+1004  Invalid user id provided.
+104 Invalid request
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1008  Access token expired
+1114  Invalid Application
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1175  Application name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3056  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1009  Invalid Access Token.
+1004  Invalid User Id Provided
+1008  Access token expired
+104   Invalid request
+1112  User is Inactive
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1174  Application name is required.
+1189  Given name contains special characters.
+1190  Given name should not have more than 256 characters.
+1191  Family name contains special characters.
+1192  Family name should not have more than 256 characters.
+1193  Middle name contains special characters.
+1194  Middle name should not have more than 256 characters.
+1196  Gender contains special characters.
+1195  Gender should not have more than 256 characters.
+1197  Country should not have more than 256 characters.
+1198  Country contains special characters.
+1200  Birthday format (YYYY-MM-DD) is not matching.
+1201  Current location should not have more than 256 characters.
+1202  Current location contains special characters.
+1203  Display should not have more than 256 characters.
+1204  Display contains special characters.
+1205  Display name should not have more than 256 characters.
+1206  Display name contains special characters.
+1207  Preferred language should not have more than 256 characters.
+1208  Preferred language contains special characters.
+1209  Receive marketing email should not have more than 3 characters.
+1210  Receive marketing email contains special characters.
+1211  Locale should not have more than 256 characters.
+1212  Locale contains special characters.
+1213  Time zone should not have more than 256 characters.
+1214  Time zone contains special characters.
+1215  Unit system name should not have more than 256 characters.
+1216  Unit system name contains special characters.
+1217  Height exceeded the max value.
+1218  Height should not contain negative values.
+1219  Height contains special characters.
+1220  Weight exceeded the max value.
+1221  Weight should not contain negative values.
+1222  Weight contains special characters.
+1223  Addess1 should not have more than 512 characters.
+1224  Address1 contains special characters.
+1225  Address2 should not have more than 512 characters.
+1226  Address2 contains special characters.
+1227  Photo type should not have more than 256 characters.
+1228  Photo type contains special characters.
+1229  Photo value should not exceed 2MB size.
+1230  Photo value is not base64 encoded string.
+1155  Invalid country code
+3057  Extension is not valid
+3058  Photo content  is not valid
+3059  Photo content and Provided Extension is mismatch
+104 Invalid request
+1151  Invalid refresh token
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1114  Invalid Application
+1004  Invalid user id provided
+1180  Refresh token is required.
+1181  Refresh token contains special characters.
+1182  Refresh token should not have more than 512 characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1175  Application name contains special characters.
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1009  Invalid access token
+104   Invalid request
+1004  Invalid user id provided
+1112  User is Inactive
+1150  Failed to connect database.
+1114  Invalid Application
+1149  Failed to connect Identity Provider  service
+1008  Access token expired
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+104 Invalid request
+1150  Failed to connect database.
+1114  Invalid Application
+1156  Invalid application for user session
+1000  Missing mandatory fields.
+1002  User doesn't exists
+1149  Failed to connect Identity Provider  service
+1254  Validation Errors
+1173  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+1166  LoginId contains special characters.
+1167  LoginId should not have more than 256 characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1271  Either Authorization or Access token is mandatory.
+1165  LoginId is required.
+3073  Invalid domain name in redirect URI.
+1420  Redirect URI contains special characters.
+3072  Invalid domains names,please check database configuration.
+1009  Invalid access token
+104 Invalid request
+1112  User is Inactive
+1150  Failed to connect database.
+1114  Invalid Application
+1149  Failed to connect Identity Provider service
+1000  Missing mandatory fields.
+1002  User doesn't exists
+1160  Invalid credentials provided
+1254  Validation Errors
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1173  Application name should not have more than 512 characters.
+1174  Application name is required.
+1166  LoginId contains special characters.
+1167  LoginId should not have more than 256 characters.
+1183  Current password is required.
+1184  Current password contains special characters.
+1185  Current password should not have more than 256 characters.
+1186  New password is required.
+1187  New password contains special characters.
+1188  New password should not have more than 256 characters.
+1256  New password should not be match with Current password.
+1009  Invalid access token
+1149  Failed to connect Identity Provider service
+1150  Failed to connect database.
+1114  Invalid Application
+1156  Invalid application for user session
+1254  Validation Errors
+1004  Invalid user id provided.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+1179  User UUID should not have more than 512 characters.
+1178  User UUID contains special characters.
+1161  The application token provided in invalid.
+1162  EmailId already exists.
+1163  EmailId does not exist.
+1165  LoginId is required.
+1166  LoginId contains special characters.
+1167  LoginId should not have more than 256 characters.
+104 Invalid request (The body of the request is malformed)
+1254  Validation Errors
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid access token
+104 Invalid request
+1114  Invalid Application
+1156  Invalid application for user session
+1011  Failed to connect Identity Provider service
+1000  Missing mandatory fields.
+1254  Validation Errors
+1174  Application name is required.
+1175  Application name contains special characters.
+1176  Application name should not have more than 512 characters.
+1427  Error might have caused due to invalid verification code or invalid redirect_URI.
+1311  Invalid verification code
+1312  Change password – invalid user inputs
+1315  Invalid Identity provider request.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3073  Invalid domain name in redirect URI.
+1186  New password is required.
+1421  Confirm password is required.
+1426  Verification code is required.
+1187  New password is not matching with password policy.
+1425  Confirm password is not matching with password policy.
+1418  Invalid verification code,code should only be alphanumeric.
+1417  Password mismatch error,confirm password is not same as new password.
+1420  Redirect URI contains special characters.
+1424  Redirect URI is required.
+3072  Invalid domains names,please check database configuration.
+1009  Invalid access token
+104 Invalid request
+1114  Invalid Application
+1011  Failed to connect Identity Provider service
+1254  Validation Errors
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1174  Application name is required.
+1175  Application name contains special characters.
+1176  Application name should not have more than 512 characters.
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1315  Invalid Identity provider request.
+1542  Delete unsuccessful
+1114  Invalid Application.
+1115  Application is Inactive
+1112  User is Inactive
+1113  Subscription is not exist
+1127  Unable to update
+1149  Failed to connect identity provider service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114  Invalid Application.
+1118  Invalid Proposition.
+1112  User is Inactive
+1115  Application is Inactive
+1119  Inactive Proposition
+1113  Subscription is not exist
+1117  Application Subscription is Inactive
+1116  Invalid Application Subscription
+1128  Invalid Application Proposition Mapping
+1127  Unable to update
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1251  Access token is required.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+1235  Proposition name contains special characters.
+1234  Proposition name should not have more than 512 characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114            Invalid Application
+1115  Application is Inactive
+1118  Invalid Proposition
+1119              Inactive Proposition
+1128  Invalid Application Proposition Mapping
+1300  Invalid feed vendor
+1301  Inactive feed vendor
+1308  Invalid Standard Observation
+1309  Invalid Proposition Observation Mapping
+1304  Invalid Standard observation and Vendor Mapping
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1138  Consent is required for
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1115  Application Inactive.
+1254  Validation Errors
+1253  Access token contains special characters.
+1176  Application name should not have more than 512 characters.
+1175  Application name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+100 Resource, file or url not found
+1114  Invalid Application
+1115  Application is Inactive
+1118                Invalid Proposition
+1119                Inactive Proposition
+1128  Invalid Application Proposition Mapping
+1116  Invalid Application Subscription
+1117  Application Subscription is Inactive
+1120  Invalid Proposition Subscription
+1112  User is Inactive
+1113  Subscription is not exist
+1149  Failed to connect Identity Provider service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1174  Application name is required.
+1175  Application name contains special characters.
+1176  Application name should not have more than 512 characters.
+1234  Proposition name should not have more than 512 characters.
+1235  Proposition name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114                  Invalid Application.
+1115    Application is Inactive
+1118  Invalid Proposition.
+1119  Inactive Proposition
+1128  Invalid Application Proposition Mapping
+1300  Invalid feed vendor
+1301  Inactive feed vendor
+1308  Invalid Standard Observation
+1309  Invalid Proposition Observation Mapping
+1304  Invalid Standard observation and Vendor Mapping
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1174  Application name is required.
+1175  Application name contains special characters.
+1176  Application name should not have more than 512 characters.
+1234  Proposition name should not have more than 512 characters.
+1235  Proposition name contains special characters.
+1412  Feed vendor name should not have more than 512 characters.
+1413  Feed vendor name contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114        Invalid Application
+1115  Application is Inactive
+1113  Subscription is not exist
+1117  Application Subscription is Inactive
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1174  Application name is required.
+1175  Application name contains special characters.
+1176  Application name should not have more than 512 characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114  Invalid Application
+1115  Application is Inactive
+1112  User is Inactive
+1155  Invalid country code
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1173  Application name should not have more than 512 characters.
+1174  Application name is required.
+1244  Class code should not have more than 256 characters.
+1245  Class code contains special characters.
+1246  Device identification number should not have more than 256 characters.
+1247  Device identification number contains special characters.
+1248  Country code is required.
+1249  Country code should not have more than 256 characters.
+1250  Country code contains special characters.
+1239  Document version is required.
+1240  Document version should not have more than 512 characters.
+1241  Document version contains special characters.
+1242  Document id should not have more than 256 characters.
+1243  Document id contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1227  Invalid Consent Code
+1221  Standard Observation and Propositions Names are required.
+1222  Proposition name required.
+1118  Invalid Proposition
+1119  Inactive Proposition
+1128  Invalid Application Proposition Mapping
+5001  Invalid standard observation
+5002  Inactive standard observation
+5003  Invalid Proposition Observation Mapping
+1223  Invalid Consent Mode.
+1224  Invalid Consent Status.
+1225  Invalid Consent Disclosure Level.
+1226  Invalid Language Code.
+1150  Failed to connect database.
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114  Invalid Application
+1115  Application is Inactive
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1173  Application name should not have more than 512 characters.
+1174  Application name is required.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1227  Invalid Consent Code
+1118  Invalid Proposition
+1119  Inactive Proposition
+1222  Proposition name is required.
+1223  StandardObservation name is required.
+5001  Invalid standard observation
+5002  Inactive standard observation
+1151   No records found.
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1115  Application is Inactive
+1114    Invalid Application
+1112  User is Inactive
+1113  Subscription is not exist
+1127  Unable to update
+1116  Invalid Application Subscription
+1148  Close without data clean is not supported
+1149  Failed to connect Identity Provider  service
+1150  Failed to connect database.
+1254  Validation Errors
+1178  User UUID contains special characters.
+1179  User UUID should not have more than 512 characters.
+1252  Access token should not have more than 512 characters.
+1253  Access token contains special characters.
+1173  Application name should not have more than 512 characters.
+1174  Application name is required.
+1236  Delete data is required.
+1237  Delete data should not have more than 256 characters.
+1238  Delete data contains special characters.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1114  Invalid Application
+1115  Application is InActive
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+5008  Invalid feed vendor
+5010  Inactive feed vendor
+1128  Invalid Application Proposition Mapping
+5003  Invalid Proposition Observation Mapping
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1119  Inactive Proposition
+1128  Invalid Application Proposition Mapping
+5001  Invalid Standard Observation
+5002  Inactive Standard Observation
+5003  Invalid Proposition Observation Mapping
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1128  Invalid Application Proposition Mapping
+5008  Invalid feed vendor
+5010  Inactive feed vendor
+1112  User is Inactive
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1270  Signed Date header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1128  Invalid Application Proposition Mapping
+1305  Invalid Standard Observation
+1306  Inactive Standard Observation
+1302  Invalid Proposition Observation Mapping
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+1271  Either Authorization or Access token is mandatory.
+1009  Invalid Access Token.
+1008  Access token expired
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1114  Invalid Application
+1002  User doesn't exists
+1011  Failed to connect Identity Provider service.
+1006  Invalid login credentials
+1005  Service error
+3055  Signed Date Format is not correct.
+3056  Signature expired. Please regenerate.
+1270  Signed Date header is missing
+104 Invalid request
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1542  Observation Storage Service Date cannot be Parsed.
+1528  Observation Storage Service TimeStamp Validation Failed
+1533  Observation Storage Service User Subscriptions URL is not Available
+1522  Invalid User Subscription management API
+1510  Observation Storage Service User or its Subscriptions is Invalid
+1535  Observation Storage Service No User Subscriptions for HsdpObservation
+1512  Observation Storage Service DataType is Mandatory
+3068  Observation Type Cannot be empty
+1513  Observation Storage Service TimeStamp is Mandatory
+1524  Observation Storage Service Timestamp is Empty
+1528  Observation Storage Service TimeStamp Validation Failed
+1515  Observation Storage Service Data is Mandatory
+1526  Observation Storage Service Data is Empty
+1507  Observation Storage Service Application is Invalid
+1508  Observation Storage Service Proposition is Invalid
+1509  Observation Storage Service Feed Vendor is Invalid
+1517  Failed to retrieve or update data from transaction service
+1521  Invalid TransactionTracker service API
+1532  Unable to calculate a request signature
+1534  Observation Storage Service Terms and Conditions URL is not Available
+1511  Observation Storage Service User Terms and Conditions is Invalid
+1537  Observation Storage Service Invalid Mode
+1543  Error occurred while connecting database
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1501  Observation Storage Service TransactionId is Not Available.
+1510  Observation Storage Service User or its Subscriptions is Invalid
+1543  Observation Storage Service UPDATE can be performed only if the transaction state is 'STATE_COMPLETED' or 'STATE_FAILED'
+1542  Observation Storage Service Date cannot be Parsed.
+1539  Observation Storage Service Normalization Service URL is not Available
+1540  Observation Storage Service Invalid Normalization URL.
+1541  Observation Storage Service Normalization Process Failed
+1521  Invalid TransactionTracker service API
+1517  Failed to retrieve or update data from transaction service
+104 Invalid request
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1501  Observation Storage Service TransactionId is Not Available
+1537  Observation Storage Service Invalid Mode
+1501  Observation Storage Service TransactionId is Not Available.
+1517  Failed to retrieve or update data from transaction service
+1507  Observation Storage Service Application is Invalid
+1521  Invalid TransactionTracker service API
+1536  DELETE can be performed only if the transaction state is 'STATE_COMPLETED' or 'STATE_FAILED'
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1429  Invalid Transaction Id
+1543  Error occurred while connecting database
+1410  No Records found for the search criteria.
+1404  Observation list cannot be empty.
+1114  Invalid Application
+704 Proposition not found
+1403  No Records found for the search criteria. Issue may be with Normalized Data.
+1115  Application is Inactive
+1406  Invalid date range.
+606 Start date is mandatory
+1405  Date format for start or end date is wrong
+
+1409  Invalid observation type 
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1404  Observation list cannot be empty.
+1114  Invalid Application
+704 Proposition not found
+1403  No Records found for the search criteria. Issue may be with Normalized Data.
+1115  Application is Inactive
+1406  Invalid date range.
+606 Start date is mandatory
+1405  Date format for start or end date is wrong
+1408  Invalid observation type 
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1410  No Records found for the search criteria.
+1114  Invalid Application
+1401  There are no topics for this app.
+1115  Application is Inactive
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+1400  Topic is not valid.
+1114  Invalid Application
+1115  Application is inactive
+1402  This topic is not associated with the application.
+1260  Authorization header value is not in proper format
+1261  Algorithm name is not valid
+1262  Signature is missing in Authorization header
+1263  Shared key is missing in Authorization header
+1264  Shared key is not valid
+1265  Unable to calculate a request signature
+1266  Unauthorized Access
+1267  Authorization header is missing
+
