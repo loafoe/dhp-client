@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"git.aemian.com/dhp/client"
-	log "github.com/Sirupsen/logrus"
 	"github.com/loafoe/cfutil"
 	"github.com/mitchellh/cli"
+	log "github.com/sirupsen/logrus"
 )
 
 type SignCommand struct {

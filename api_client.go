@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
-	"github.com/jeffail/gabs"
+	"github.com/Jeffail/gabs/v2"
+	log "github.com/sirupsen/logrus"
 )
 
 var (

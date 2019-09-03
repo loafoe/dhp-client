@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jeffail/gabs"
+	"github.com/Jeffail/gabs/v2"
 	"github.com/labstack/echo"
 	"github.com/m4rw3r/uuid"
 )

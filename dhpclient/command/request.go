@@ -8,10 +8,10 @@ import (
 	"strings"
 
 	"git.aemian.com/dhp/client"
-	log "github.com/Sirupsen/logrus"
-	"github.com/jeffail/gabs"
+	"github.com/Jeffail/gabs/v2"
 	"github.com/loafoe/cfutil"
 	"github.com/mitchellh/cli"
+	log "github.com/sirupsen/logrus"
 )
 
 type RequestCommand struct {

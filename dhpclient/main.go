@@ -3,9 +3,9 @@ package main
 import (
 	_ "encoding/json"
 	"fmt"
-	log "github.com/Sirupsen/logrus"
 	"github.com/joho/godotenv"
 	"github.com/mitchellh/cli"
+	log "github.com/sirupsen/logrus"
 	"os"
 )
 
